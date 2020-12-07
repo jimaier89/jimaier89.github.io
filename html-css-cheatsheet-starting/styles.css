@@ -1,0 +1,49 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+main {
+    background-color: cornsilk;
+}
+
+table, th, tr, td {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid black;
+    border-collapse: collapse;
+
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+
+th {
+    background-color: aqua;
+}
+
+.table-names {
+    font-family: Arial, Helvetica, sans-serif;
+    color: blueviolet;
+    text-align: center;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mid-align {
+    text-align: center;
+}
+
+.code {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+}
